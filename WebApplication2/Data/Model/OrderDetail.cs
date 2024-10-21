@@ -4,13 +4,11 @@ using System.ComponentModel.DataAnnotations;
 public class OrderDetail
 {
     public int Id { get; set; }
-    
-    [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
     public int Amount { get; set; }
     
-    [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
     public int OrderId { get; set; }
+    public Order Order { get; set; }
 
-    [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
     public int ProductId { get; set; }
+     public Product Product { get; set; }
 }

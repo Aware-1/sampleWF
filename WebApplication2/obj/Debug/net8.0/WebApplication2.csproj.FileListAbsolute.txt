@@ -145,3 +145,4 @@ D:\a.eslami\project\sample\WfApp1\WebApplication2\obj\Debug\net8.0\refint\WebApp
 D:\a.eslami\project\sample\WfApp1\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
 D:\a.eslami\project\sample\WfApp1\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
 D:\a.eslami\project\sample\WfApp1\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+D:\a.eslami\project\sample\WfApp1\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json

@@ -1,0 +1,14 @@
+D:\a.eslami\project\sample\WfApp1\WfApp1\bin\Debug\net8.0-windows\WfApp1.exe
+D:\a.eslami\project\sample\WfApp1\WfApp1\bin\Debug\net8.0-windows\WfApp1.deps.json
+D:\a.eslami\project\sample\WfApp1\WfApp1\bin\Debug\net8.0-windows\WfApp1.runtimeconfig.json
+D:\a.eslami\project\sample\WfApp1\WfApp1\bin\Debug\net8.0-windows\WfApp1.dll
+D:\a.eslami\project\sample\WfApp1\WfApp1\bin\Debug\net8.0-windows\WfApp1.pdb
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\WfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\WfApp1.AssemblyInfoInputs.cache
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\WfApp1.AssemblyInfo.cs
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\WfApp1.csproj.CoreCompileInputs.cache
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\WfApp1.dll
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\refint\WfApp1.dll
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\WfApp1.pdb
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\WfApp1.genruntimeconfig.cache
+D:\a.eslami\project\sample\WfApp1\WfApp1\obj\Debug\net8.0-windows\ref\WfApp1.dll
